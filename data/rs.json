@@ -1,0 +1,560 @@
+{
+"first":{
+  "1": {
+    "name": "Exeggcute",
+    "rart": 0,
+	"id": 1
+  },
+  "2": {
+    "name": "Exeggutor",
+    "rart": 1,
+	"id": 2
+  },
+  "3": {
+    "name": "Wurmple",
+    "rart": 0,
+	"id": 3
+  },
+  "4": {
+    "name": "Silcoon",
+    "rart": 1,
+	"id": 4
+  },
+  "5": {
+    "name": "Cascoon",
+    "rart": 0,
+	"id": 6
+  },
+  "6": {
+    "name": "Dustox",
+    "rart": 1,
+	"id": 7
+  },
+  "7": {
+    "name": "Nincada",
+    "rart": 0,
+	"id": 9
+  },
+  "8": {
+    "name": "Ninjask",
+    "rart": 1,
+	"id": 10
+  },
+  "9": {
+    "name": "Tropious",
+    "rart": 1,
+	"id": 12
+  },
+  "10": {
+    "name": "Fletchinder",
+    "rart": 1,
+	"id": 14
+  },
+  "11": {
+    "name": "Wingull",
+    "rart": 0,
+	"id": 18
+  },
+  "12": {
+    "name": "Pelipper",
+    "rart": 1,
+	"id": 19
+  },
+  "13": {
+    "name": "Pikachu",
+    "rart": 0,
+	"id": 20
+  },
+  "14": {
+    "name": "Voltrob",
+    "rart": 0,
+	"id": 21
+  },
+  "15": {
+    "name": "Electrode",
+    "rart": 1,
+	"id": 22
+  },
+  "16": {
+    "name": "Electrike",
+    "rart": 0,
+	"id": 24
+  },
+  "17": {
+    "name": "Manetric",
+    "rart": 1,
+	"id": 25
+  },
+  "18": {
+    "name": "Natu",
+    "rart": 0,
+	"id": 27
+  },
+  "19": {
+    "name": "Natu",
+    "rart": 0,
+	"id": 28
+  },
+  "20": {
+    "name": "Shuppet",
+    "rart": 0,
+	"id": 30
+  },
+  "21": {
+    "name": "Gligar",
+    "rart": 0,
+	"id": 36
+  },
+  "22": {
+    "name": "Gliscor",
+    "rart": 1,
+	"id": 37
+  },
+  "23": {
+    "name": "Binacle",
+    "rart": 0,
+	"id": 38
+  },
+  "24": {
+    "name": "Hawlucha",
+    "rart": 0,
+	"id": 39
+  },
+  "25": {
+    "name": "Inkay",
+    "rart": 0,
+	"id": 41
+  },
+  "26": {
+    "name": "Togepi",
+    "rart": 0,
+	"id": 43
+  },
+  "27": {
+    "name": "Togetic",
+    "rart": 1,
+	"id": 44
+  },
+  "28": {
+    "name": "Dratini",
+    "rart": 0,
+	"id": 49
+  },
+  "29": {
+    "name": "Dragonair",
+    "rart": 1,
+	"id": 50
+  },
+  "30": {
+    "name": "Altaria",
+    "rart": 1,
+	"id": 53
+  },
+  "31": {
+    "name": "Bagon",
+    "rart": 0,
+	"id": 54
+  },
+  "32": {
+    "name": "Bagon",
+    "rart": 0,
+	"id": 55
+  },
+  "33": {
+    "name": "Shelgon",
+    "rart": 1,
+	"id": 56
+  },
+  "34": {
+    "name": "Spearow",
+    "rart": 0,
+	"id": 65
+  },
+  "35": {
+    "name": "Fearow",
+    "rart": 1,
+	"id": 66
+  },
+  "36": {
+    "name": "Meowth",
+    "rart": 0,
+	"id": 67
+  },
+  "37": {
+    "name": "Dunsparce",
+    "rart": 0,
+	"id": 68
+  },
+  "38": {
+    "name": "Taillow",
+    "rart": 0,
+	"id": 70
+  },
+  "39": {
+    "name": "Swablu",
+    "rart": 0,
+	"id": 73
+  },
+  "40": {
+    "name": "Pidove",
+    "rart": 0,
+	"id": 78
+  },
+  "41": {
+    "name": "Tranquill",
+    "rart": 1,
+	"id": 79
+  },
+  "42": {
+    "name": "Unfezant",
+    "rart": 1,
+	"id": 80
+  },
+  "43": {
+    "name": "Fletchling",
+    "rart": 0,
+	"id": 82
+  },
+  "44": {
+    "name": "Gallade Spirit Link",
+    "rart": 1,
+	"id": 83
+  },
+  "45": {
+    "name": "Healing Scarf",
+    "rart": 1,
+	"id": 84
+  },
+  "46": {
+    "name": "Latios Spirit Link",
+    "rart": 1,
+	"id": 85
+  },
+  "47": {
+    "name": "Mega Turbo",
+    "rart": 1,
+	"id": 86
+  },
+  "48": {
+    "name": "Rayquaza Spirit Link",
+    "rart": 1,
+	"id": 87
+  },
+  "49": {
+    "name": "Revive",
+    "rart": 1,
+	"id": 88
+  },
+  "50": {
+    "name": "Sky Field",
+    "rart": 1,
+	"id": 89
+  },
+  "51": {
+    "name": "Steven",
+    "rart": 1,
+	"id": 90
+  },
+  "52": {
+    "name": "Switch",
+    "rart": 1,
+	"id": 91
+  },
+  "53": {
+    "name": "Trainers' Mail",
+    "rart": 1,
+	"id": 92
+  },
+  "54": {
+    "name": "Ultra Ball",
+    "rart": 1,
+	"id": 93
+  },
+  "55": {
+    "name": "Wally",
+    "rart": 1,
+	"id": 94
+  },
+  "56": {
+    "name": "Wide Lens",
+    "rart": 1,
+	"id": 95
+  },
+  "57": {
+    "name": "Winona",
+    "rart": 1,
+	"id": 96
+  },
+  "58": {
+    "name": "Double Dragon Energy",
+    "rart": 1,
+	"id": 97
+  }
+},
+"second":{
+  "1": {
+    "name": "Beautifly",
+    "rart": 3,
+	"id": 5
+  },
+  "2": {
+    "name": "Dustox",
+    "rart": 2,
+	"id": 8
+  },
+  "3": {
+    "name": "Shedinja",
+    "rart": 2,
+	"id": 11
+  },
+  "4": {
+    "name": "Victini",
+    "rart": 2,
+	"id": 13
+  },
+  "5": {
+    "name": "Talonflame",
+    "rart": 2,
+	"id": 15
+  },
+  "6": {
+    "name": "Articuno",
+    "rart": 2,
+	"id": 16
+  },
+  "7": {
+    "name": "Articuno",
+    "rart": 2,
+	"id": 17
+  },
+  "8": {
+    "name": "Zapdos",
+    "rart": 2,
+	"id": 23
+  },
+  "9": {
+    "name": "Xatu",
+    "rart": 2,
+	"id": 29
+  },
+  "10": {
+    "name": "Banette",
+    "rart": 2,
+	"id": 31
+  },
+  "11": {
+    "name": "Banette",
+    "rart": 2,
+	"id": 32
+  },
+  "12": {
+    "name": "Deoxys",
+    "rart": 3,
+	"id": 33
+  },
+  "13": {
+    "name": "Absol",
+    "rart": 3,
+	"id": 40
+  },
+  "14": {
+    "name": "Jirachi",
+    "rart": 3,
+	"id": 42
+  },
+  "15": {
+    "name": "Togekiss",
+    "rart": 2,
+	"id": 45
+  },
+  "16": {
+    "name": "Togekiss",
+    "rart": 3,
+	"id": 46
+  },
+  "17": {
+    "name": "Carbink",
+    "rart": 2,
+	"id": 47
+  },
+  "18": {
+    "name": "Klefki",
+    "rart": 2,
+	"id": 48
+  },
+  "19": {
+    "name": "Dragonite",
+    "rart": 2,
+	"id": 51
+  },
+  "20": {
+    "name": "Dragonite",
+    "rart": 3,
+	"id": 52
+  },
+  "21": {
+    "name": "Salamence",
+    "rart": 3,
+	"id": 57
+  },
+  "22": {
+    "name": "Reshiram",
+    "rart": 3,
+	"id": 63
+  },
+  "23": {
+    "name": "Zekrom",
+    "rart": 3,
+	"id": 64
+  },
+  "24": {
+    "name": "Skarmory",
+    "rart": 2,
+	"id": 69
+  },
+  "25": {
+    "name": "Swellow",
+    "rart": 2,
+	"id": 71
+  },
+  "26": {
+    "name": "Swellow",
+    "rart": 3,
+	"id": 72
+  },
+  "27": {
+    "name": "Altaria",
+    "rart": 2,
+	"id": 74
+  },
+  "28": {
+    "name": "Unfezant",
+    "rart": 2,
+	"id": 81
+  }
+},
+"third":{
+  "1": {
+    "name": "Thundurus-EX",
+    "rart": 4,
+	"id": 26
+  },
+  "2": {
+    "name": "Gallade-EX",
+    "rart": 4,
+	"id": 34
+  },
+  "3": {
+    "name": "Mega Gallade-EX",
+    "rart": 4,
+	"id": 35
+  },
+  "4": {
+    "name": "Latios-EX",
+    "rart": 4,
+	"id": 58
+  },
+  "5": {
+    "name": "Mega Latios-EX",
+    "rart": 4,
+	"id": 59
+  },
+  "6": {
+    "name": "Rayquaza-EX",
+    "rart": 4,
+	"id": 60
+  },
+  "7": {
+    "name": "Mega Rayquaza-EX",
+    "rart": 4,
+	"id": 61
+  },
+  "8": {
+    "name": "Hydreigon-EX",
+    "rart": 4,
+	"id": 62
+  },
+  "9": {
+    "name": "Rayquaza-EX",
+    "rart": 4,
+	"id": 75
+  },
+  "10": {
+    "name": "Mega Rayquaza-EX",
+    "rart": 4,
+	"id": 76
+  },
+  "11": {
+    "name": "Shaymin-EX",
+    "rart": 4,
+	"id": 77
+  },
+  "12": {
+    "name": "Thundurus-EX",
+    "rart": 4,
+	"id": 98
+  },
+  "13": {
+    "name": "Gallade-EX",
+    "rart": 4,
+	"id": 99
+  },
+  "14": {
+    "name": "Mega Gallade-EX",
+    "rart": 4,
+	"id": 100
+  },
+  "15": {
+    "name": "Latios-EX",
+    "rart": 4,
+	"id": 101
+  },
+  "16": {
+    "name": "Mega Latios-EX",
+    "rart": 4,
+	"id": 102
+  },
+  "17": {
+    "name": "Hydreigon-EX",
+    "rart": 4,
+	"id": 103
+  },
+  "18": {
+    "name": "Rayquaza-EX",
+    "rart": 4,
+	"id": 104
+  },
+  "19": {
+    "name": "Mega Rayquaza-EX",
+    "rart": 4,
+	"id": 105
+  },
+  "20": {
+    "name": "Shaymin-EX",
+    "rart": 4,
+	"id": 106
+  },
+  "21": {
+    "name": "Wally",
+    "rart": 4,
+	"id": 107
+  },
+  "22": {
+    "name": "Winona",
+    "rart": 4,
+	"id": 108
+  }
+},
+"fourth":{
+  "1": {
+    "name": "Energy Switch",
+    "rart": 5,
+	"id": 109
+  },
+  "2": {
+    "name": "VS Seeker",
+    "rart": 5,
+	"id": 110
+  }
+}
+}
