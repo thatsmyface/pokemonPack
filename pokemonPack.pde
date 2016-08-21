@@ -1,21 +1,22 @@
 /*         Pokemon Pack Generator
-           Created by Ethan Trott
-
-Rar-Ts:
-   0: common
-   1: uncommon
-   2: rare
-   3: rareHolo
-   4: ultraRare
-   5: secretRare
-   
-Groups: 
-   First: common(0), uncommon(1)
-   Second: rare(2), rareHolo(3)
-   Third: ultraRare(4)
-   Four: secretRare(5)
-   Break: BREAKS(4)
-                                         */
+ Created by Ethan Trott
+ Edited by Stephen Kaplan
+ 
+ Rar-Ts:
+ 0: common
+ 1: uncommon
+ 2: rare
+ 3: rareHolo
+ 4: ultraRare
+ 5: secretRare
+ 
+ Groups: 
+ First: common(0), uncommon(1)
+ Second: rare(2), rareHolo(3)
+ Third: ultraRare(4)
+ Four: secretRare(5)
+ Break: BREAKS(4)
+ */
 void setup() {
   fullScreen();
   json = loadJSONObject(packType+".json");
@@ -26,7 +27,7 @@ void setup() {
   art2 = loadImage("images/" + packType+"/art2.jpg");
   art3 = loadImage("images/" + packType+"/art3.jpg");
   art4 = loadImage("images/" + packType+"/art4.jpg");
-  back = loadImage("images/back.jpg");
+  back = loadImage("images/back.png");
   textAlign(CENTER, CENTER);
   textSize(32);
   println("Ready");
@@ -59,12 +60,18 @@ void draw() {
     text("Opening: "+ packData.getString("name"), width/2, height/9);
     textSize(32);
     if (holo[8]=="rev") {
+      pushMatrix();
       fill(0, 255, 0);
-      rect((4*width/6)-(width/9)/2-20, (2*height/3)-(height/3.5)/2-20, width/9+40, height/3.5+40);
+      translate((4*width/6)-(width/9)/2-11, (2*height/3)-(height/3.5)/2-11);
+      rect(0, 0, 180, 280, 5);
+      popMatrix();
     }
     if (holo[9]=="reg") {
+      pushMatrix();
       fill(255, 0, 0);
-      rect((5*width/6)-(width/9)/2-20, (2*height/3)-(height/3.5)/2-20, width/9+40, height/3.5+40);
+      translate((5*width/6)-(width/9)/2-11, (2*height/3)-(height/3.5)/2-11);
+      rect(0, 0, 180, 280, 5);
+      popMatrix();
     }
 
     imageMode(CENTER);
