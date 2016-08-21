@@ -10,7 +10,7 @@ void packOpen() {
     num[3] = ints.get(4);
     num[4] = ints.get(5);
     num[5] = ints.get(6);
-    num[6] = ints.get(7);
+    num[6] = ints.get(13);
     num[7] = ints.get(8);
     num[0] = ints.get(9);
     if (i<8) {
