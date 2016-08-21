@@ -1,0 +1,20 @@
+{
+"rs":{
+	"name": "Roaring Skies",
+	"break": false,
+	"amount1": 58,
+	"amount2": 28,
+	"amount3": 22,
+	"amount4": 2,
+	"amountB": 0
+},
+"ss":{
+	"name": "Steam Siege",
+	"break": true,
+	"amount1": 61,
+	"amount2": 32,
+	"amount3": 14,
+	"amount4": 2,
+	"amountB": 7
+}
+}

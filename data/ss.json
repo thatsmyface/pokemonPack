@@ -1,0 +1,592 @@
+{
+"first":{
+  "1": {
+    "name": "Tangela",
+    "rart": 0,
+	"id": 1
+  },
+  "2": {
+    "name": "Hoppip",
+    "rart": 0,
+	"id": 2
+  },
+  "3": {
+    "name": "Yanma",
+    "rart": 0,
+	"id": 6
+  },
+  "4": {
+    "name": "Seedot",
+    "rart": 0,
+	"id": 9
+  },
+  "5": {
+    "name": "Foongus",
+    "rart": 0,
+	"id": 12
+  },
+  "6": {
+    "name": "Larvesta",
+    "rart": 0,
+	"id": 14
+  },
+  "7": {
+    "name": "Ponyta",
+    "rart": 0,
+	"id": 16
+  },
+  "8": {
+    "name": "Chimchar",
+    "rart": 0,
+	"id": 18
+  },
+  "9": {
+    "name": "Litleo",
+    "rart": 0,
+	"id": 22
+  },
+  "10": {
+    "name": "Mantine",
+    "rart": 0,
+	"id": 27
+  },
+  "11": {
+    "name": "Shellos",
+    "rart": 0,
+	"id": 28
+  },
+  "12": {
+    "name": "Oshawott",
+    "rart": 0,
+	"id": 30
+  },
+  "13": {
+    "name": "Clauncher",
+    "rart": 0,
+	"id": 33
+  },
+  "14": {
+    "name": "Bergmite",
+    "rart": 0,
+	"id": 36
+  },
+  "15": {
+    "name": "Mareep",
+    "rart": 0,
+	"id": 38
+  },
+  "16": {
+    "name": "Joltik",
+    "rart": 0,
+	"id": 41
+  },
+  "17": {
+    "name": "Nidoran",
+    "rart": 0,
+	"id": 43
+  },
+  "18": {
+    "name": "Drifloon",
+    "rart": 0,
+	"id": 46
+  },
+  "19": {
+    "name": "Litwick",
+    "rart": 0,
+	"id": 48
+  },
+  "20": {
+    "name": "Mankey",
+    "rart": 0,
+	"id": 52
+  },
+  "21": {
+    "name": "Nosepass",
+    "rart": 0,
+	"id": 54
+  },
+  "22": {
+    "name": "Croagunk",
+    "rart": 0,
+	"id": 58
+  },
+  "23": {
+    "name": "Sneasel",
+    "rart": 0,
+	"id": 60
+  },
+  "24": {
+    "name": "Pawniard",
+    "rart": 0,
+	"id": 63
+  },
+  "25": {
+    "name": "Klink",
+    "rart": 0,
+	"id": 71
+  },
+  "26": {
+    "name": "Marill",
+    "rart": 0,
+	"id": 76
+  },
+  "27": {
+    "name": "Deino",
+    "rart": 0,
+	"id": 84
+  },
+  "28": {
+    "name": "Meowth",
+    "rart": 0,
+	"id": 88
+  },
+  "29": {
+    "name": "Aipom",
+    "rart": 0,
+	"id": 90
+  },
+  "30": {
+    "name": "Rufflet",
+    "rart": 0,
+	"id": 92
+  },
+  "31": {
+    "name": "Fletchling",
+    "rart": 0,
+	"id": 94
+  },
+  "32": {
+    "name": "Tangrowth",
+    "rart": 1,
+	"id": 2
+  },
+  "33": {
+    "name": "Skiploom",
+    "rart": 1,
+	"id": 4
+  },
+  "34": {
+    "name": "Nuzleaf",
+    "rart": 1,
+	"id": 10;
+  },
+  "35": {
+    "name": "Rapidash",
+    "rart": 1,
+	"id": 17
+  },
+  "36": {
+    "name": "Monferno",
+    "rart": 1,
+	"id": 19
+  },
+  "37": {
+    "name": "Dewott",
+    "rart": 1,
+	"id": 31
+  },
+  "38": {
+    "name": "Flaaffy",
+    "rart": 1,
+	"id": 39
+  },
+  "39": {
+    "name": "Nidorino",
+    "rart": 1,
+	"id": 44
+  },
+  "40": {
+    "name": "Drifblim",
+    "rart": 1,
+	"id": 47
+  },
+  "41": {
+    "name": "Lampent",
+    "rart": 1,
+	"id": 49
+  },
+  "42": {
+    "name": "Anorith",
+    "rart": 1,
+	"id": 56
+  },
+  "43": {
+    "name": "Shieldon",
+    "rart": 1,
+	"id": 69
+  },
+  "44": {
+    "name": "Klang",
+    "rart": 1,
+	"id": 72
+  },
+  "45": {
+    "name": "Azumarill",
+    "rart": 1,
+	"id": 77
+  },
+  "46": {
+    "name": "Klefki",
+    "rart": 1,
+	"id": 80
+  },
+  "47": {
+    "name": "Zweilous",
+    "rart": 1,
+	"id": 85
+  },
+  "48": {
+    "name": "Persian",
+    "rart": 1,
+	"id": 89
+  },
+  "49": {
+    "name": "Ambipom",
+    "rart": 1,
+	"id": 91
+  },
+  "50": {
+    "name": "Braviary",
+    "rart": 1,
+	"id": 93
+  },
+  "51": {
+    "name": "Fletchinder",
+    "rart": 1,
+	"id": 95
+  },
+  "52": {
+    "name": "Hawlucha",
+    "rart": 1,
+	"id": 97
+  },
+  "53": {
+    "name": "Armor Fossil Shieldon",
+    "rart": 1,
+	"id": 98
+  },
+  "54": {
+    "name": "Captivating Poke Puff",
+    "rart": 1,
+	"id": 99
+  },
+  "55": {
+    "name": "Claw Fossil Anorith",
+    "rart": 1,
+	"id": 100
+  },
+  "56": {
+    "name": "Gardevoir Spirit Link",
+    "rart": 1,
+	"id": 101
+  },
+  "57": {
+    "name": "Greedy Dice",
+    "rart": 1,
+	"id": 102
+  },
+  "58": {
+    "name": "Ninja Boy",
+    "rart": 1,
+	"id": 103
+  },
+  "59": {
+    "name": "Pokemon Ranger",
+    "rart": 1,
+	"id": 104
+  },
+  "60": {
+    "name": "Special Charge",
+    "rart": 1,
+	"id": 105
+  },
+  "61": {
+    "name": "Steelix Spirit Link",
+    "rart": 1,
+	"id": 106
+  }
+},
+"second":{
+  "1": {
+    "name": "Jumpluff",
+    "rart": 2,
+	"id": 5 
+  },
+  "2": {
+    "name": "Yanmega",
+    "rart": 2,
+	"id": 7
+  },
+  "3": {
+    "name": "Amoongus",
+    "rart": 2,
+	"id": 13
+  },
+  "4": {
+    "name": "Volcarona",
+    "rart": 2,
+	"id": 15
+  },
+  "5": {
+    "name": "Pyroar",
+    "rart": 2,
+	"id": 23
+  },
+  "6": {
+    "name": "Volcanion",
+    "rart": 2,
+	"id": 25
+  },
+  "7": {
+    "name": "Gastrodon",
+    "rart": 2,
+	"id": 29
+  },
+  "8": {
+    "name": "Samurott",
+    "rart": 2,
+	"id": 32
+  },
+  "9": {
+    "name": "Clawitzer",
+    "rart": 2,
+	"id": 34
+  },
+  "10": {
+    "name": "Avalugg",
+    "rart": 2,
+	"id": 37
+  },
+  "11": {
+    "name": "Galvantula",
+    "rart": 2,
+	"id": 42
+  },
+  "12": {
+    "name": "Nidoking",
+    "rart": 2,
+	"id": 45
+  },
+  "13": {
+    "name": "Hoopa",
+    "rart": 2,
+	"id": 51
+  },
+  "14": {
+    "name": "Primeape",
+    "rart": 2,
+	"id": 53
+  },
+  "15": {
+    "name": "Probopass",
+    "rart": 2,
+	"id": 55
+  },
+  "16": {
+    "name": "Armaldo",
+    "rart": 2,
+	"id": 57
+  },
+  "17": {
+    "name": "Toxicroak",
+    "rart": 2,
+	"id": 59
+  },
+  "18": {
+    "name": "Weavile",
+    "rart": 2,
+	"id": 61
+  },
+  "19": {
+    "name": "Spiritomb",
+    "rart": 2,
+	"id": 62
+  },
+  "20": {
+    "name": "Bastiodon",
+    "rart": 2,
+	"id": 70
+  },
+  "21": {
+    "name": "Cobalion",
+    "rart": 2,
+	"id": 74
+  },
+  "22": {
+    "name": "Druddigon",
+    "rart": 2,
+	"id": 83
+  },
+  "23": {
+    "name": "Talonflame",
+    "rart": 2,
+	"id": 96
+  },
+  "24": {
+    "name": "Shiftry",
+    "rart": 3,
+	"id": 11
+  },
+  "25": {
+    "name": "Infernape",
+    "rart": 3,
+	"id": 20
+  },
+  "26": {
+    "name": "Ampharos",
+    "rart": 3,
+	"id": 40
+  },
+  "27": {
+    "name": "Chandelure",
+    "rart": 3,
+	"id": 50
+  },
+  "28": {
+    "name": "Bisharp",
+    "rart": 3,
+	"id": 64
+  },
+  "29": {
+    "name": "Yveltal",
+    "rart": 3,
+	"id": 65
+  },
+  "30": {
+    "name": "Klinklang",
+    "rart": 3,
+	"id": 73
+  },
+  "31": {
+    "name": "Xerneas",
+    "rart": 3,
+	"id": 81
+  },
+  "32": {
+    "name": "Hydreigon",
+    "rart": 3,
+	"id": 86
+  }
+},
+"third":{
+  "1": {
+    "name": "Volcanion-EX",
+    "rart": 4,
+	"id": 26
+  },
+  "2": {
+    "name": "Steelix-EX",
+    "rart": 4,
+	"id": 67
+  },
+  "3": {
+    "name": "Mega Steelix-EX",
+    "rart": 4,
+	"id": 68
+  },
+  "4": {
+    "name": "Magearna-EX",
+    "rart": 4,
+	"id": 75
+  },
+  "5": {
+    "name": "Gardevoir-EX",
+    "rart": 4,
+	"id": 78
+  },
+  "6": {
+    "name": "Mega Gardevoir-EX",
+    "rart": 4,
+	"id": 79
+  },
+  "7": {
+    "name": "Volcanion-EX",
+    "rart": 4,
+	"id": 107
+  },
+  "8": {
+    "name": "Steelix-EX",
+    "rart": 4,
+	"id": 108
+  },
+  "9": {
+    "name": "Mega Steelix-EX",
+    "rart": 4,
+	"id": 109
+  },
+  "10": {
+    "name": "Magearna-EX",
+    "rart": 4,
+	"id": 110
+  },
+  "11": {
+    "name": "Gardevoir-EX",
+    "rart": 4,
+	"id": 111
+  },
+  "12": {
+    "name": "Mega Gardevoir-EX",
+    "rart": 4,
+	"id": 112
+  },
+  "13": {
+    "name": "Pokemon Ranger",
+    "rart": 4,
+	"id": 113
+  },
+  "14": {
+    "name": "Professor Sycamore",
+    "rart": 4,
+	"id": 114
+  }
+},
+"fourth":{
+  "1": {
+    "name": "Volcanion-EX",
+    "rart": 5,
+	"id": 115
+  },
+  "2": {
+    "name": "Gardevoir-EX",
+    "rart": 5,
+	"id": 116
+  }
+},
+"break":{
+  "1": {
+    "name": "Yanmega-BREAK",
+    "rart": 4,
+	"id": 8
+  },
+  "2": {
+    "name": "Talonflame-BREAK",
+    "rart": 4,
+	"id": 21
+  },
+  "3": {
+    "name": "Pyroar-BREAK",
+    "rart": 4,
+	"id": 24
+  },
+  "4": {
+    "name": "Clawitzer-BREAK",
+    "rart": 4,
+	"id": 35
+  },
+  "5": {
+    "name": "Yveltal-BREAK",
+    "rart": 4,
+	"id": 66
+  },
+  "6": {
+    "name": "Xerneas-BREAK",
+    "rart": 4,
+	"id": 82
+  },
+  "7": {
+    "name": "Hydreigon-BREAK",
+    "rart": 4,
+	"id": 87
+  }
+}
+}
