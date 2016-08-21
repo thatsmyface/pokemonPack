@@ -17,7 +17,7 @@ Groups:
    Break: BREAKS(4)
                                          */
 void setup() {
-  size(800,600);
+  fullScreen();
   json = loadJSONObject(packType+".json");
   list = loadJSONObject("list.json");
   packData = list.getJSONObject("rs");

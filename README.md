@@ -6,8 +6,8 @@ More coming soon!
 ----
 To Do:
 - [ ] make prettier
-- [ ] add more packs
-- [ ] cleanup messy code
+- [ ] add more packs (other than RS and SS)
+- [x] cleanup messy code
 
 ----
 Looking for the latest release? [Click here!](https://github.com/thatsmyface/pokemonPack/releases/)
