@@ -1,6 +1,8 @@
 /*         Pokemon Pack Generator
- Created by Ethan Trott
- Edited by Stephen Kaplan
+           Created by Ethan Trott
+           
+             Contributed to by :
+                Stephen Kaplan
  
  Rar-Ts:
  0: common
@@ -60,18 +62,12 @@ void draw() {
     text("Opening: "+ packData.getString("name"), width/2, height/9);
     textSize(32);
     if (holo[8]=="rev") {
-      pushMatrix();
       fill(0, 255, 0);
-      translate((4*width/6)-(width/9)/2-11, (2*height/3)-(height/3.5)/2-11);
-      rect(0, 0, 180, 280, 5);
-      popMatrix();
+      rect((4*width/6)-(width/9)/2-11, (2*height/3)-(height/3.5)/2-11, width/9+22, height/3.5+22, 5);
     }
     if (holo[9]=="reg") {
-      pushMatrix();
       fill(255, 0, 0);
-      translate((5*width/6)-(width/9)/2-11, (2*height/3)-(height/3.5)/2-11);
-      rect(0, 0, 180, 280, 5);
-      popMatrix();
+      rect((5*width/6)-(width/9)/2-11, (2*height/3)-(height/3.5)/2-11, width/9+22, height/3.5+22, 5);
     }
 
     imageMode(CENTER);
